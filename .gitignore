@@ -1,0 +1,78 @@
+# Ambiente virtual
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos de cache e logs
+*.log
+*.pot
+*.sqlite
+*.sqlite3
+
+# Arquivos de ambiente
+.env
+.venv
+env.txt
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos de teste e cobertura
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Arquivos de output
+*.csv
+*.xlsx
+*.pdf
+*.zip
+!Rol_de_Procedimentos.csv  
+!Teste_*.zip               
